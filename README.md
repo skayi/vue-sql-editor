@@ -1,4 +1,4 @@
-# 📦 vue-sql-editor
+# 📦 @kwange/vue-sql-editor
 
 [![License](https://img.shields.io/npm/l/oclif.svg)](https://github.com/oclif/oclif/blob/main/package.json)
 <br><br>
@@ -25,9 +25,9 @@ Programing with `VueJS 2.6`.
 # 🔨 Installation
 
 ```
-npm install vue-sql-editor --save
+npm install @kwange/vue-sql-editor --save
 or
-yarn add vue-sql-editor
+yarn add @kwange/vue-sql-editor
 ```
 
 <br />
@@ -35,7 +35,7 @@ yarn add vue-sql-editor
 # 🏗 Usage
 
 ```javascript
-import SQLEditor from 'vue-sql-editor'
+import SQLEditor from '@kwange/vue-sql-editor'
 
 <SQLEditor v-model="sqlstr" :readOnly="false" />
 ```
