@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/npm/l/oclif.svg)](https://github.com/oclif/oclif/blob/main/package.json)
 <br><br>
-![avatar](https://github.com/skayi/textexpander/blob/main/vue-sql-editor.png)
+![avatar](https://github.com/skayi/vue-sql-editor/blob/main/vue-sql-editor.png)
 
 <br />
 
