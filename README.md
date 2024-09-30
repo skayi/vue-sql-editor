@@ -35,13 +35,15 @@ yarn add @kwange/vue-sql-editor
 # 🏗 Usage
 
 ```javascript
+import Vue from 'vue'
 import SQLEditor from '@kwange/vue-sql-editor'
 
+Vue.use(SQLEditor)
+
 <SQLEditor v-model="sqlstr" :readOnly="false" />
-```
-
 or
-
-```javascript
 <sql-editor v-model="sqlstr" :readOnly="false" />
 ```
+
+<br/>
+<br/>
